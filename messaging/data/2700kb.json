@@ -1,0 +1,69 @@
+{
+    "sign": {
+        "uri": "electronic-sign/irisxsigns*33",
+        "title": "I-65: I-65 NB Mile 108.6",
+        "icon": "/images/icon-sign-active-fill-solid.svg",
+        "cityReference": "in Indianapolis city (balance)",
+        "color": "rgb(59,55,55)",
+        "signStatus": "DISPLAYING_MESSAGE",
+        "signDisplayType": "CMS",
+        "views": [
+            {
+                "uri": "electronic-sign/irisxsigns*33/3476386918",
+                "category": "CMS",
+                "title": "I-65: I-65 NB Mile 108.6",
+                "icon": "/images/icon-sign-active-fill-solid.svg",
+                "__typename": "SignTextView",
+                "textJustification": "CENTER",
+                "textLines": [
+                    "I-65 NORTH CLOSED",
+                    "AT I-70 NORTH SPLIT",
+                    "DETOUR USE I-70 WEST"
+                ]
+            },
+            {
+                "sign": {
+                    "uri": "electronic-sign/irisxsigns*33",
+                    "title": "I-65: I-65 NB Mile 108.6",
+                    "icon": "/images/icon-sign-active-fill-solid.svg",
+                    "cityReference": "in Indianapolis city (balance)",
+                    "color": "rgb(59,55,55)",
+                    "signStatus": "DISPLAYING_MESSAGE",
+                    "signDisplayType": "CMS",
+                    "views": [
+                        {
+                            "uri": "electronic-sign/irisxsigns*33/3476386918",
+                            "category": "CMS",
+                            "title": "I-65: I-65 NB Mile 108.6",
+                            "icon": "/images/icon-sign-active-fill-solid.svg",
+                            "__typename": "SignTextView",
+                            "textJustification": "CENTER",
+                            "textLines": [
+                                "I-65 NORTH CLOSED",
+                                "AT I-70 NORTH SPLIT",
+                                "DETOUR USE I-70 WEST"
+                            ]
+                        }
+                    ]
+                }
+            },{
+                "sign": {
+                    "uri": "electronic-sign/irisxsigns*33",
+                    "title": "I-65: I-65 NB Mile 108.6",
+                    "icon": "/images/icon-sign-active-fill-solid.svg",
+                    "cityReference": "in Indianapolis city (balance)",
+                    "color": "rgb(59,55,55)",
+                    "signDisplayType": "CMS",
+                    "views": [
+                        {
+                            "textLines": [
+                                "I-65 NORTH "
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
+

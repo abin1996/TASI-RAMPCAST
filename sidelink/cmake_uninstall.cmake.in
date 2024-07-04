@@ -1,0 +1,50 @@
+/**
+* Copyright 2013-2019 
+* Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut (HHI)
+*
+* This file is part of the HHI Sidelink.
+*
+* HHI Sidelink is under the terms of the GNU Affero General Public License
+* as published by the Free Software Foundation version 3.
+*
+* HHI Sidelink is distributed WITHOUT ANY WARRANTY,
+* without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+*
+* A copy of the GNU Affero General Public License can be found in
+* the LICENSE file in the top-level directory of this distribution
+* and at http://www.gnu.org/licenses/.
+*
+* The HHI Sidelink is based on srsLTE.
+* All necessary files and sources from srsLTE are part of HHI Sidelink.
+* srsLTE is under Copyright 2013-2017 by Software Radio Systems Limited.
+* srsLTE can be found under:
+* https://github.com/srsLTE/srsLTE
+*/
+
+if(POLICY CMP0007)
+    cmake_policy(SET CMP0007 OLD)
+endif(POLICY CMP0007)
+
+if (NOT EXISTS "@CMAKE_CURRENT_BINARY_DIR@/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"@CMAKE_CURRENT_BINARY_DIR@/install_manifest.txt\"")
+endif(NOT EXISTS "@CMAKE_CURRENT_BINARY_DIR@/install_manifest.txt")
+
+file(READ "@CMAKE_CURRENT_BINARY_DIR@/install_manifest.txt" files)
+string(REGEX REPLACE "\n" ";" files "${files}")
+list(REVERSE files)
+foreach (file ${files})
+    message(STATUS "Uninstalling \"$ENV{DESTDIR}${file}\"")
+    if (EXISTS "$ENV{DESTDIR}${file}")
+        execute_process(
+            COMMAND @CMAKE_COMMAND@ -E remove "$ENV{DESTDIR}${file}"
+            OUTPUT_VARIABLE rm_out
+            RESULT_VARIABLE rm_retval
+        )
+        if(NOT ${rm_retval} EQUAL 0)
+            message(FATAL_ERROR "Problem when removing \"$ENV{DESTDIR}${file}\"")
+        endif (NOT ${rm_retval} EQUAL 0)
+    else (EXISTS "$ENV{DESTDIR}${file}")
+        message(STATUS "File \"$ENV{DESTDIR}${file}\" does not exist.")
+    endif (EXISTS "$ENV{DESTDIR}${file}")
+endforeach(file)

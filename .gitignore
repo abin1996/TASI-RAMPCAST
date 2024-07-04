@@ -1,0 +1,12 @@
+/sidelink/build/**
+*pyc
+.vscode
+sidelink/srsLTE.backtrace.crash
+/511-msg-data/511_New_Datasource
+sidelink/srsLTE.backtrace.crash
+sidelink/ue.log
+511-msg-data/sample_car_events/*cars-event-feed.json
+*_cars-event-feed.json
+Demo/received_msgs/*.json
+Demo/Road-signs-*
+messaging/Default-Test

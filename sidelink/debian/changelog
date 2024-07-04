@@ -1,0 +1,58 @@
+/**
+* Copyright 2013-2019 
+* Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut (HHI)
+*
+* This file is part of the HHI Sidelink.
+*
+* HHI Sidelink is under the terms of the GNU Affero General Public License
+* as published by the Free Software Foundation version 3.
+*
+* HHI Sidelink is distributed WITHOUT ANY WARRANTY,
+* without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+*
+* A copy of the GNU Affero General Public License can be found in
+* the LICENSE file in the top-level directory of this distribution
+* and at http://www.gnu.org/licenses/.
+*
+* The HHI Sidelink is based on srsLTE.
+* All necessary files and sources from srsLTE are part of HHI Sidelink.
+* srsLTE is under Copyright 2013-2017 by Software Radio Systems Limited.
+* srsLTE can be found under:
+* https://github.com/srsLTE/srsLTE
+*/
+srslte (19.03-0ubuntu1) bionic; urgency=medium
+
+  * Update to srsLTE 19.03
+
+ -- srsLTE Packagers <packagers@softwareradiosystems.com>  Mon, 13 May 2019 16:50:00 +0200
+
+srslte (18.12-0ubuntu1) bionic; urgency=medium
+
+  * Update to srsLTE 18.12
+
+ -- Andre Puschmann <andre@softwareradiosystems.com>  Mon, 21 Jan 2019 13:50:00 +0200
+
+srslte (18.09-0ubuntu1) bionic; urgency=medium
+
+  * Update to srsLTE 18.09
+
+ -- Andre Puschmann <andre@softwareradiosystems.com>  Wed, 15 Oct 2018 10:05:00 +0200
+
+srslte (18.06.1-0ubuntu1) bionic; urgency=medium
+
+  * Update to srsLTE 18.06.1
+
+ -- Andre Puschmann <andre@softwareradiosystems.com>  Wed, 18 Jul 2018 11:34:00 +0200
+
+srslte (18.05~SNAPSHOT-0ubuntu2) bionic; urgency=medium
+
+  * Update pkg deps
+
+ -- Andre Puschmann <andre@softwareradiosystems.com>  Tue, 01 Jun 2018 15:10:00 +0200
+
+srslte (18.05~SNAPSHOT-0ubuntu1) bionic; urgency=medium
+
+  * Initial release of deb's
+
+ -- Andre Puschmann <andre@softwareradiosystems.com>  Tue, 01 Jun 2018 14:10:00 +0200

@@ -1,0 +1,1854 @@
+{
+  "RSU_Coordinates": [
+    39.782159,
+    -86.167573
+  ],
+  "RSU_Messages": [
+    {
+      "interstate": 65,
+      "direction": "SB",
+      "milemarker": 109.4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1376,
+          39.74175
+        ]
+      },
+      "distance_to_rsu": 4.5,
+      "time_to_rsu": 5,
+      "lsign_distance": 8,
+      "rsign_distance": 15,
+      "title": "I-65 / 109.4 dms- 1543",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "3",
+      "message2": "10",
+      "message3": "",
+      "priority": 4,
+      "message_type": "tts",
+      "device_nbr": 1543,
+      "device_label": "1-065-109-4-SB-tts"
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13216,
+          39.78759
+        ]
+      },
+      "distance_to_rsu": 2.1,
+      "time_to_rsu": 2,
+      "lsign_distance": 8,
+      "rsign_distance": 22,
+      "title": "I-70 / 83.6 dms- 1549",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "5",
+      "message2": "18",
+      "message3": "",
+      "priority": 4,
+      "message_type": "tts",
+      "device_nbr": 1549,
+      "device_label": "1-070-083-6-EB-tts"
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17542154,
+          39.81205049
+        ]
+      },
+      "distance_to_rsu": 2.7,
+      "time_to_rsu": 3,
+      "lsign_distance": 10,
+      "rsign_distance": 27,
+      "title": "I-65 / 115.9 dms- 1700",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "7",
+      "message2": "24",
+      "message3": "",
+      "priority": 4,
+      "message_type": "tts",
+      "device_nbr": 1700,
+      "device_label": "1-065-115-9-NB-tts"
+    },
+    {
+      "interstate": 70,
+      "direction": "WB",
+      "milemarker": 78.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19741797,
+          39.75625199
+        ]
+      },
+      "distance_to_rsu": 6.5,
+      "time_to_rsu": 7,
+      "lsign_distance": 12,
+      "rsign_distance": 18,
+      "title": "I-70 / 78.0 dms- 1702",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "5",
+      "message2": "11",
+      "message3": "",
+      "priority": 4,
+      "message_type": "tts",
+      "device_nbr": 1702,
+      "device_label": "1-070-078-0-WB-tts"
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 85.8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.096744,
+          39.799571
+        ]
+      },
+      "distance_to_rsu": 4.3,
+      "time_to_rsu": 4,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-70 / 85.8 dms- 307",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "    TO I-465 VIA    ",
+      "message2": "I-70  13 MI   14 MIN",
+      "message3": "I-65N 13 MI   14 MIN",
+      "priority": 5,
+      "message_type": "dms",
+      "device_nbr": 307,
+      "device_label": "1-070-085-8-EB-dms"
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 119.7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236582,
+          39.832919
+        ]
+      },
+      "distance_to_rsu": 6.3,
+      "time_to_rsu": 6,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-65 / 119.7 dms- 337",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "    TO I-865 VIA    ",
+      "message2": "I-465  8 MI    8 MIN",
+      "message3": "I-65   9 MI    9 MIN",
+      "priority": 5,
+      "message_type": "dms",
+      "device_nbr": 337,
+      "device_label": "1-065-119-7-NB-dms"
+    },
+    {
+      "interstate": 65,
+      "direction": "SB",
+      "milemarker": 108.4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.134986,
+          39.727257
+        ]
+      },
+      "distance_to_rsu": 5.5,
+      "time_to_rsu": 6,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-65 / 108.4 dms- 339",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "CO LN  8 MI   7 MIN",
+      "message2": "SR44  19 MI  17 MIN",
+      "message3": "US31  33 MI  29 MIN",
+      "priority": 5,
+      "message_type": "dms",
+      "device_nbr": 339,
+      "device_label": "1-065-108-4-SB-dms"
+    },
+    {
+      "interstate": 70,
+      "direction": "WB",
+      "milemarker": 77.8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.203807,
+          39.755979
+        ]
+      },
+      "distance_to_rsu": 6.6,
+      "time_to_rsu": 7,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-70 / 77.8 dms- 342",
+      "ontime": "2023-09-04T02:34:02-04:00",
+      "offtime": "2023-09-04T02:49:02-04:00",
+      "message1": "REAGAN 9 MI    9 MIN",
+      "message2": "SR39  18 MI   17 MIN",
+      "message3": "US231 36 MI   34 MIN",
+      "priority": 5,
+      "message_type": "dms",
+      "device_nbr": 342,
+      "device_label": "1-070-077-8-WB-dms"
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14257786,
+          39.77355931
+        ]
+      },
+      "distance_from_rsu": 1.4541983085869497,
+      "message1": "MAINTENANCE ON I-65",
+      "message2": "NB MILE: 111.7",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114774,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14769537,
+          39.78268723
+        ]
+      },
+      "distance_from_rsu": 1.0560817183108313,
+      "message1": "PEDESTRIAN ON I-65",
+      "message2": "NB MILE: 112.7",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 114776,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14946682,
+          39.78267361
+        ]
+      },
+      "distance_from_rsu": 0.9620488276191362,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 112.8",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 114796,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16453044,
+          39.79418967
+        ]
+      },
+      "distance_from_rsu": 0.8467988927505053,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 114.3",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 114874,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14296591,
+          39.7632634
+        ]
+      },
+      "distance_from_rsu": 1.8471976663725944,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 111.0",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114906,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13492832,
+          39.78664746
+        ]
+      },
+      "distance_from_rsu": 1.7608240922251595,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114926,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114928,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13191936,
+          39.78786213
+        ]
+      },
+      "distance_from_rsu": 1.9336228070610522,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-70 EB MILE:",
+      "message3": "83.7",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115095,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.2,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14286613,
+          39.76620534
+        ]
+      },
+      "distance_from_rsu": 1.7136193382626448,
+      "message1": "FIRE ON I-65 NB",
+      "message2": "MILE: 111.2",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115189,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.2,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16493062,
+          39.79274915
+        ]
+      },
+      "distance_from_rsu": 0.7450447778457226,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 114.2",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115265,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16645527,
+          39.80932571
+        ]
+      },
+      "distance_from_rsu": 1.8779968658325392,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 115.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115270,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16453044,
+          39.79418967
+        ]
+      },
+      "distance_from_rsu": 0.8467988927505053,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 114.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115273,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16241814,
+          39.78322735
+        ]
+      },
+      "distance_from_rsu": 0.28348782904392184,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 113.5",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 115291,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1674162,
+          39.81058307
+        ]
+      },
+      "distance_from_rsu": 1.9639530168139494,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 115.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115323,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13342386,
+          39.78725486
+        ]
+      },
+      "distance_from_rsu": 1.8470406714388583,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-70 EB MILE:",
+      "message3": "83.6",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115480,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.9,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16640669,
+          39.78815886
+        ]
+      },
+      "distance_from_rsu": 0.4191545517547019,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 113.9",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115533,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.1,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.15489698,
+          39.7827975
+        ]
+      },
+      "distance_from_rsu": 0.6745076972491796,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 113.1",
+      "message3": "",
+      "priority": 3,
+      "message_type": "car-event",
+      "device_nbr": 115588,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16867732,
+          39.7538351
+        ]
+      },
+      "distance_from_rsu": 1.957892833464214,
+      "message1": "CRASH PD ON I-70 EB",
+      "message2": "MILE: 79.6",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115603,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16453044,
+          39.79418967
+        ]
+      },
+      "distance_from_rsu": 0.8467988927505053,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 114.3",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115616,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13492832,
+          39.78664746
+        ]
+      },
+      "distance_from_rsu": 1.7608240922251595,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115692,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14432827,
+          39.7837636
+        ]
+      },
+      "distance_from_rsu": 1.2391950844390411,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115695,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14258197,
+          39.78384321
+        ]
+      },
+      "distance_from_rsu": 1.3320408743897105,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115757,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14257786,
+          39.77355931
+        ]
+      },
+      "distance_from_rsu": 1.4541983085869497,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-65 NB MILE:",
+      "message3": "111.7",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115772,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16241814,
+          39.78322735
+        ]
+      },
+      "distance_from_rsu": 0.28348782904392184,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 113.5",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115803,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1649849,
+          39.75360321
+        ]
+      },
+      "distance_from_rsu": 1.9778183602547528,
+      "message1": "PEDESTRIAN ON I-70",
+      "message2": "EB MILE: 79.8",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115838,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14769537,
+          39.78268723
+        ]
+      },
+      "distance_from_rsu": 1.0560817183108313,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 112.7",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115846,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.15866467,
+          39.78292337
+        ]
+      },
+      "distance_from_rsu": 0.47594781889905124,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 113.3",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 115863,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115862,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16621355,
+          39.79003207
+        ]
+      },
+      "distance_from_rsu": 0.5487503855140381,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 114.0",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 115875,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "PEDESTRIAN ON I-70",
+      "message2": "EB MILE: 83.3",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 115935,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16621355,
+          39.79003207
+        ]
+      },
+      "distance_from_rsu": 0.5487503855140381,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 114.0",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 115961,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116006,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14946682,
+          39.78267361
+        ]
+      },
+      "distance_from_rsu": 0.9620488276191362,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.8",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116010,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1649849,
+          39.75360321
+        ]
+      },
+      "distance_from_rsu": 1.9778183602547528,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 79.8",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116032,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1674162,
+          39.81058307
+        ]
+      },
+      "distance_from_rsu": 1.9639530168139494,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 115.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116069,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.2,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14077345,
+          39.78120507
+        ]
+      },
+      "distance_from_rsu": 1.424527896813327,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 112.2",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 116102,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13492832,
+          39.78664746
+        ]
+      },
+      "distance_from_rsu": 1.7608240922251595,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-70 EB MILE: 83.5",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 116244,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16453044,
+          39.79418967
+        ]
+      },
+      "distance_from_rsu": 0.8467988927505053,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 114.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116261,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16453044,
+          39.79418967
+        ]
+      },
+      "distance_from_rsu": 0.8467988927505053,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-65 NB MILE:",
+      "message3": "114.3",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116540,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16479094,
+          39.7956671
+        ]
+      },
+      "distance_from_rsu": 0.9449454557927918,
+      "message1": "MEDICAL EMERGENCY",
+      "message2": "ON I-65 NB MILE:",
+      "message3": "114.4",
+      "priority": 8,
+      "message_type": "car-event",
+      "device_nbr": 116687,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14946682,
+          39.78267361
+        ]
+      },
+      "distance_from_rsu": 0.9620488276191362,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.8",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116697,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13643283,
+          39.78604022
+        ]
+      },
+      "distance_from_rsu": 1.6750284769477162,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 116704,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1659731,
+          39.8045942
+        ]
+      },
+      "distance_from_rsu": 1.5524650670225677,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 115.0",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 116872,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.9,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16640669,
+          39.78815886
+        ]
+      },
+      "distance_from_rsu": 0.4191545517547019,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 113.9",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 116883,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13492832,
+          39.78664746
+        ]
+      },
+      "distance_from_rsu": 1.7608240922251595,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-70 EB MILE: 83.5",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 116959,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16557315,
+          39.7985798
+        ]
+      },
+      "distance_from_rsu": 1.1395374141182149,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-65 NB MILE:",
+      "message3": "114.6",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117006,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16621355,
+          39.79003207
+        ]
+      },
+      "distance_from_rsu": 0.5487503855140381,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 114.0",
+      "message3": "",
+      "priority": 3,
+      "message_type": "car-event",
+      "device_nbr": 117041,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14946682,
+          39.78267361
+        ]
+      },
+      "distance_from_rsu": 0.9620488276191362,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.8",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117140,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13643283,
+          39.78604022
+        ]
+      },
+      "distance_from_rsu": 1.6750284769477162,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117153,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14281554,
+          39.76767642
+        ]
+      },
+      "distance_from_rsu": 1.6521984169747785,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 111.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117160,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14296591,
+          39.7632634
+        ]
+      },
+      "distance_from_rsu": 1.8471976663725944,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 111.0",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117186,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1659731,
+          39.8045942
+        ]
+      },
+      "distance_from_rsu": 1.5524650670225677,
+      "message1": "FIRE ON I-65 NB",
+      "message2": "MILE: 115.0",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 117201,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117236,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CRASH PD ON I-70 EB",
+      "message2": "MILE: 83.3",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 117308,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1659731,
+          39.8045942
+        ]
+      },
+      "distance_from_rsu": 1.5524650670225677,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 115.0",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117462,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.7,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16683624,
+          39.75364661
+        ]
+      },
+      "distance_from_rsu": 1.9704263061470422,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 79.7",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117562,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13643283,
+          39.78604022
+        ]
+      },
+      "distance_from_rsu": 1.6750284769477162,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117589,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13342386,
+          39.78725486
+        ]
+      },
+      "distance_from_rsu": 1.8470406714388583,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.6",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117596,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.8,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14220393,
+          39.77497652
+        ]
+      },
+      "distance_from_rsu": 1.4356113081773603,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 111.8",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 117612,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.2,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.15678114,
+          39.78285132
+        ]
+      },
+      "distance_from_rsu": 0.575012395308998,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 113.2",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 117625,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14258197,
+          39.78384321
+        ]
+      },
+      "distance_from_rsu": 1.3320408743897105,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.4",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117781,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.17051416,
+          39.75406769
+        ]
+      },
+      "distance_from_rsu": 1.9472187207081475,
+      "message1": "CRASH PI ON I-70 EB",
+      "message2": "MILE: 79.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117849,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 110.9,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14302043,
+          39.76179245
+        ]
+      },
+      "distance_from_rsu": 1.9184180747390922,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 110.9",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 117876,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1659731,
+          39.8045942
+        ]
+      },
+      "distance_from_rsu": 1.5524650670225677,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 115.0",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 117910,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.1659731,
+          39.8045942
+        ]
+      },
+      "distance_from_rsu": 1.5524650670225677,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 115.0",
+      "message3": "",
+      "priority": 3,
+      "message_type": "car-event",
+      "device_nbr": 117959,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14269914,
+          39.770618
+        ]
+      },
+      "distance_from_rsu": 1.5428949440568687,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 111.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 118120,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.9,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16313348,
+          39.75356303
+        ]
+      },
+      "distance_from_rsu": 1.9898307448154762,
+      "message1": "CRASH PD ON I-70 EB",
+      "message2": "MILE: 79.9",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 118161,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14432827,
+          39.7837636
+        ]
+      },
+      "distance_from_rsu": 1.2391950844390411,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 113680,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 113682,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14598092,
+          39.78312096
+        ]
+      },
+      "distance_from_rsu": 1.148405138351483,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB MILE: 112.6",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 113820,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14264071,
+          39.7720888
+        ]
+      },
+      "distance_from_rsu": 1.4956431925695837,
+      "message1": "CRASH PI ON I-65 NB",
+      "message2": "MILE: 111.6",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 113904,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 111.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14264071,
+          39.7720888
+        ]
+      },
+      "distance_from_rsu": 1.4956431925695837,
+      "message1": "STALLED VEHICLE ON",
+      "message2": "I-65 NB MILE: 111.6",
+      "message3": "",
+      "priority": 6,
+      "message_type": "car-event",
+      "device_nbr": 113975,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13492832,
+          39.78664746
+        ]
+      },
+      "distance_from_rsu": 1.7608240922251595,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114045,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 112.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.14432827,
+          39.7837636
+        ]
+      },
+      "distance_from_rsu": 1.2391950844390411,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-65 NB MILE: 112.5",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114044,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB MILE: 83.3",
+      "message3": "",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114048,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.0,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.15301264,
+          39.78275016
+        ]
+      },
+      "distance_from_rsu": 0.7741954289460344,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 113.0",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 114138,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 114.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16557315,
+          39.7985798
+        ]
+      },
+      "distance_from_rsu": 1.1395374141182149,
+      "message1": "CRASH PD ON I-65 NB",
+      "message2": "MILE: 114.6",
+      "message3": "",
+      "priority": 4,
+      "message_type": "car-event",
+      "device_nbr": 114206,
+      "device_label": "I-65",
+      "timestamp": 1693809360
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.6,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13342386,
+          39.78725486
+        ]
+      },
+      "distance_from_rsu": 1.8470406714388583,
+      "message1": "DEBRIS IN THE ROAD",
+      "message2": "ON I-70 EB MILE:",
+      "message3": "83.6",
+      "priority": 5,
+      "message_type": "car-event",
+      "device_nbr": 114328,
+      "device_label": "I-70",
+      "timestamp": 1693809360
+    }
+  ]
+}

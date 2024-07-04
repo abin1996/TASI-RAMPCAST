@@ -1,0 +1,409 @@
+{
+  "RSU_Coordinates": [
+    39.782159,
+    -86.167573
+  ],
+  "RSU_Messages": [
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB, 83.3 MILES",
+      "message3": "AHEAD",
+      "priority": 3,
+      "message_type": "car-event",
+      "eventType": "CONSTRUCTION",
+      "startMileMarker": 83.3,
+      "cardinal_dir": "E",
+      "device_nbr": 102065,
+      "device_label": "I-70",
+      "timestamp": 1699514644,
+      "repeat": 3,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.3,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.13792892,
+          39.78541323
+        ]
+      },
+      "distance_from_rsu": 1.5899718672565404,
+      "message1": "CONSTRUCTION ON",
+      "message2": "I-70 EB, 83.3 MILES",
+      "message3": "AHEAD",
+      "priority": 3,
+      "message_type": "car-event",
+      "eventType": "CONSTRUCTION",
+      "startMileMarker": 83.3,
+      "cardinal_dir": "E",
+      "device_nbr": 102065,
+      "device_label": "I-70",
+      "timestamp": 1699514644,
+      "repeat": 3,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.17236511,
+          39.75412129
+        ]
+      },
+      "distance_from_rsu": 1.9538860061385361,
+      "message1": "CRASH ON I-70EB,",
+      "message2": "79.4 MILES AHEAD",
+      "message3": "DRIVE WITH CAUTION",
+      "priority": 3,
+      "message_type": "car-event",
+      "eventType": "CRASH PI",
+      "startMileMarker": 79.4,
+      "cardinal_dir": "E",
+      "device_nbr": 102055,
+      "device_label": "I-70",
+      "timestamp": 1699514644,
+      "repeat": 3,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 79.4,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.17236511,
+          39.75412129
+        ]
+      },
+      "distance_from_rsu": 1.9538860061385361,
+      "message1": "CRASH ON I-70EB,",
+      "message2": "79.4 MILES AHEAD",
+      "message3": "DRIVE WITH CAUTION",
+      "priority": 3,
+      "message_type": "car-event",
+      "eventType": "CRASH PI",
+      "startMileMarker": 79.4,
+      "cardinal_dir": "E",
+      "device_nbr": 102055,
+      "device_label": "I-70",
+      "timestamp": 1699514644,
+      "repeat": 3,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 113.5,
+      "geometry": {
+        "type": "POINT",
+        "coordinates": [
+          -86.16241814,
+          39.78322735
+        ]
+      },
+      "distance_from_rsu": 0.28348782904392184,
+      "message1": "TRAFFIC HAZARD ON",
+      "message2": "I-65 NB, 113.5",
+      "message3": "MILES AHEAD",
+      "priority": 5,
+      "message_type": "car-event",
+      "eventType": "TRAFFIC HAZARD",
+      "startMileMarker": 113.5,
+      "cardinal_dir": "N",
+      "device_nbr": 102035,
+      "device_label": "I-65",
+      "timestamp": 1699514644,
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 65,
+      "direction": "SB",
+      "milemarker": 109.4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1376,
+          39.74175
+        ]
+      },
+      "distance_to_rsu": 4.5,
+      "time_to_rsu": 5,
+      "lsign_distance": 8,
+      "rsign_distance": 15,
+      "title": "I-65 / 109.4 dms- 1543",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "3",
+      "message2": "10",
+      "message3": "",
+      "priority": 4,
+      "eventType": "tts",
+      "message_type": "tts",
+      "device_nbr": 1543,
+      "device_label": "1-065-109-4-SB-tts",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 83.6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13216,
+          39.78759
+        ]
+      },
+      "distance_to_rsu": 2.1,
+      "time_to_rsu": 2,
+      "lsign_distance": 8,
+      "rsign_distance": 22,
+      "title": "I-70 / 83.6 dms- 1549",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "5",
+      "message2": "17",
+      "message3": "",
+      "priority": 4,
+      "eventType": "tts",
+      "message_type": "tts",
+      "device_nbr": 1549,
+      "device_label": "1-070-083-6-EB-tts",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 115.9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17542154,
+          39.81205049
+        ]
+      },
+      "distance_to_rsu": 2.7,
+      "time_to_rsu": 3,
+      "lsign_distance": 10,
+      "rsign_distance": 27,
+      "title": "I-65 / 115.9 dms- 1700",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "7",
+      "message2": "24",
+      "message3": "",
+      "priority": 4,
+      "eventType": "tts",
+      "message_type": "tts",
+      "device_nbr": 1700,
+      "device_label": "1-065-115-9-NB-tts",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "WB",
+      "milemarker": 78.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19741797,
+          39.75625199
+        ]
+      },
+      "distance_to_rsu": 6.5,
+      "time_to_rsu": 7,
+      "lsign_distance": 12,
+      "rsign_distance": 18,
+      "title": "I-70 / 78.0 dms- 1702",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "5",
+      "message2": "11",
+      "message3": "",
+      "priority": 4,
+      "eventType": "tts",
+      "message_type": "tts",
+      "device_nbr": 1702,
+      "device_label": "1-070-078-0-WB-tts",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "EB",
+      "milemarker": 85.8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.096744,
+          39.799571
+        ]
+      },
+      "distance_to_rsu": 4.3,
+      "time_to_rsu": 4,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-70 / 85.8 dms- 307",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "    TO I-465 VIA    ",
+      "message2": "I-70  13 MI   14 MIN",
+      "message3": "I-65N 13 MI   14 MIN",
+      "priority": 5,
+      "eventType": "dms",
+      "message_type": "dms",
+      "device_nbr": 307,
+      "device_label": "1-070-085-8-EB-dms",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 65,
+      "direction": "NB",
+      "milemarker": 119.7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236582,
+          39.832919
+        ]
+      },
+      "distance_to_rsu": 6.3,
+      "time_to_rsu": 6,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-65 / 119.7 dms- 337",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "    TO I-865 VIA    ",
+      "message2": "I-465  8 MI    8 MIN",
+      "message3": "I-65   9 MI    9 MIN",
+      "priority": 5,
+      "eventType": "dms",
+      "message_type": "dms",
+      "device_nbr": 337,
+      "device_label": "1-065-119-7-NB-dms",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 65,
+      "direction": "SB",
+      "milemarker": 108.4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.134986,
+          39.727257
+        ]
+      },
+      "distance_to_rsu": 5.5,
+      "time_to_rsu": 6,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-65 / 108.4 dms- 339",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "CO LN  8 MI   7 MIN",
+      "message2": "SR44  19 MI  17 MIN",
+      "message3": "US31  33 MI  29 MIN",
+      "priority": 5,
+      "eventType": "dms",
+      "message_type": "dms",
+      "device_nbr": 339,
+      "device_label": "1-065-108-4-SB-dms",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    },
+    {
+      "interstate": 70,
+      "direction": "WB",
+      "milemarker": 77.8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.203807,
+          39.755979
+        ]
+      },
+      "distance_to_rsu": 6.6,
+      "time_to_rsu": 7,
+      "lsign_distance": 0,
+      "rsign_distance": 0,
+      "title": "I-70 / 77.8 dms- 342",
+      "ontime": "2023-11-09T02:23:03-05:00",
+      "offtime": "2023-11-09T02:38:03-05:00",
+      "message1": "REAGAN 9 MI    9 MIN",
+      "message2": "SR39  18 MI   17 MIN",
+      "message3": "US231 36 MI   33 MIN",
+      "priority": 5,
+      "eventType": "dms",
+      "message_type": "dms",
+      "device_nbr": 342,
+      "device_label": "1-070-077-8-WB-dms",
+      "repeat": 1,
+      "rsu_coordinates": [
+        39.782159,
+        -86.167573
+      ]
+    }
+  ]
+}

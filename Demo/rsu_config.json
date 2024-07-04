@@ -1,0 +1,61 @@
+{
+    "ramp_name": "West St",
+    "signs":[
+        {
+            "id": "1700",
+            "distance_to_rsu": 2.7,
+            "time_to_rsu": 3,
+            "lsign_distance":10,
+            "rsign_distance":27,
+            "type":"tts"
+        },
+        {
+            "id":"1549",
+            "distance_to_rsu": 2.1,
+            "time_to_rsu": 2,
+            "lsign_distance":8,
+            "rsign_distance":22,
+            "type":"tts"
+        },
+        {
+            "id":"1543",
+            "distance_to_rsu": 4.5,
+            "time_to_rsu": 5,
+            "lsign_distance":8,
+            "rsign_distance":15,
+            "type":"tts"
+        },
+        {
+            "id":"1702",
+            "distance_to_rsu": 6.5,
+            "time_to_rsu": 7,
+            "lsign_distance":12,
+            "rsign_distance":18,
+            "type":"tts"
+        },
+        {
+            "id": "337",
+            "distance_to_rsu": 6.3,
+            "time_to_rsu": 6,
+            "type":"dms"
+        },
+        {
+            "id":"307",
+            "distance_to_rsu": 4.3,
+            "time_to_rsu": 4,
+            "type":"dms"
+        },
+        {
+            "id":"339",
+            "distance_to_rsu": 5.5,
+            "time_to_rsu": 6,
+            "type":"dms"
+        },
+        {
+            "id":"342",
+            "distance_to_rsu": 6.6,
+            "time_to_rsu": 7,
+            "type":"dms"
+        }
+    ]
+}

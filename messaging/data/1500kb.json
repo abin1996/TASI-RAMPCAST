@@ -1,0 +1,46 @@
+{
+    "sign": {
+        "title": "I-65: I-65 NB Mile 108.6",
+        "icon": "/images/icon-sign-active-fill-solid.svg",
+        "views": [
+            {
+                "category": "CMS",
+                "title": "I-65: I-65 NB Mile 108.6",
+                "icon": "/images/icon-sign-active-fill-solid.svg",
+                "textJustification": "CENTER",
+                "textLines": [
+                    "I-65 NORTH CLOSED",
+                    "AT I-70 NORTH SPLIT",
+                    "DETOUR USE I-70 WEST"
+                ]
+            },
+            {
+                "category": "CMS",
+                "title": "I-65: I-65 NB Mile 108.6",
+                "icon": "/images/icon-sign-active-fill-solid.svg",
+                "textJustification": "CENTER",
+                "textLines": [
+                    "I-65 NORTH CLOSED",
+                    "AT I-70 NORTH SPLIT",
+                    "DETOUR USE I-70 WEST"
+                ]
+            },
+            {
+                "category": "CMS",
+                "title": "I-65: I-65 NB Mile 108.6",
+                "icon": "/images/icon-sign-active-fill-solid.svg",
+                "textJustification": "CENTER",
+                "textLines": [
+                    "I-65 NORTH CLOSED",
+                    "AT I-70 NORTH SPLIT",
+                    "DETOUR USE I-70 WEST"
+                ]
+            }
+            ,
+            {
+                "category": "CMS"
+                
+            }
+        ]
+    }
+}
